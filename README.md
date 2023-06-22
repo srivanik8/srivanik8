@@ -16,25 +16,27 @@
 ======================================================
 <br>
 ## 📚 My Repos On:
-- <a href= https://github.com/Ashuradhipathi/Webscraping->Web Scraping</a>
-- <a href= https://github.com/Ashuradhipathi/WebDev>Web dev</a>
-- <a href= https://github.com/Ashuradhipathi/Flask>Flask </a>
-- <a href= https://github.com/Ashuradhipathi/React> React </a>
-- <a href= https://github.com/Ashuradhipathi/Learn-R>R </a>
-- [Data Structures and Algorithms](https://github.com/Ashuradhipathi/Data-Structures-and-Algorithms)
+- <a href= https://github.com/srivanik8/Web-Dev>Web dev</a>
+- <a href= https://github.com/srivanik8/Flask>Flask </a>
+- <a href= https://github.com/srivanik8/react-calc> React </a>
+- <a href= https://github.com/srivanik8/Learn-R>R </a>
+- [Data Structures and Algorithms](https://github.com/srivanik8/Data-Structures)
 ## 👨🏽‍💻 Projects :
-- [Investigating Netflix Movies (Data Science)](https://github.com/Ashuradhipathi/Netflix-Movie-Duration)
-- [What and Where are the Worlds Oldest Businesses(Data Science)](https://github.com/Ashuradhipathi/What-and-Where-are-the-World-s-Oldest-Businesses)
-- [The Android App Market on Google Play (Data Science)](https://github.com/Ashuradhipathi/The-Android-App-Market-on-Google-Play)
-- [A Visual History of Nobel Prize Winners](https://github.com/Ashuradhipathi/A-Visual-History-of-Nobel-Prize-Winners)
-- [Fake news Classifier](https://github.com/Ashuradhipathi/Fake-News-Classifier)
-- [LGBTQ+ Bot](https://github.com/Uninterestedguy/LGBTQ-bot)
+- [Ding Dong](https://github.com/srivanik8/ding-dong)
+- [Calculator](https://github.com/srivanik8/calc)
+- [Password generator](https://github.com/srivanik8/pwd-generator)
+- [Weather app](https://github.com/srivanik8/weather-app)
+- [Covid Statistics application](https://github.com/srivanik8/covid-statistics)
+- [Mp3 player application](https://github.com/srivanik8/mp3)
+- [To do](https://github.com/srivanik8/To-do)
+- [counter](https://github.com/srivanik8/counter)
+- [calculator with react](https://github.com/srivanik8/react-calc)
   
 
 ======================================================
 
 # 🏛️**Hall Of Fame**
-- 🏆 [Enter!](https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/Hall_of_Fame.md) 
+- 🏆 [Enter!](https://github.com/srivanik8/srivanik8/blob/main/Hall_of_fame.md) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,17 +44,15 @@
 <br> 
 
 ## 🎓Certifications
-![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  certified for -- Data Science For Engineers<br>
-![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  certified for -- Ethical Hacking<br>
 ![GYMANSIUM](https://img.shields.io/badge/GYMNASIUM----blackGREEN) certified for -- Fundamentals Of UX Design
 
 ======================================================
 
 ## 📊Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashuradhipathi&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=srivanik8&show_icons=true&theme=transparent)
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashuradhipathi&show_icons=true&locale=en&layout=compact" alt="Ashuradhipathi" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivanik8&show_icons=true&locale=en&layout=compact" alt="Srivanik8" /></p>
 
 
 <h3 align="center">📲Connect with me:</h3>
@@ -66,17 +66,4 @@
 <a href="https://discord.gg/ashura#5112" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="ashura#5112" height="30" width="40" /></a>
 </p>### Hi there 👋
 
-<!--
-**srivanik8/srivanik8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
