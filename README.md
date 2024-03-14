@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Java, C/C++, R, Data Science,Cyber Security,Canva, Figma, Frontend .**
 
-- 📫 How to reach me **Srivanichitti816@gmail.com**
+- 📫 How to reach me **Imsrivanikonda@gmail.com**
 
 ======================================================
 <br>
