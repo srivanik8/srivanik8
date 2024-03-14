@@ -22,15 +22,15 @@
 - <a href= https://github.com/srivanik8/Learn-R>R </a>
 - [Data Structures and Algorithms](https://github.com/srivanik8/Data-Structures)
 ## 👨🏽‍💻 Projects :
-- [Ding Dong](https://github.com/srivanik8/ding-dong)
-- [Calculator](https://github.com/srivanik8/calc)
-- [Password generator](https://github.com/srivanik8/pwd-generator)
-- [Weather app](https://github.com/srivanik8/weather-app)
+- [Password Generator](https://github.com/srivanik8/pwd-generator)
+- [Weather Forecaster Application](https://github.com/srivanik8/weather-app)
 - [Covid Statistics application](https://github.com/srivanik8/covid-statistics)
-- [Mp3 player application](https://github.com/srivanik8/mp3)
+- [Music player application](https://github.com/srivanik8/mp3)
 - [To do](https://github.com/srivanik8/To-do)
 - [counter](https://github.com/srivanik8/counter)
-- [calculator with react](https://github.com/srivanik8/react-calc)
+- [Elmo](https://github.com/srivanik8/elmo)
+- [UterusCare](https://github.com/srivanik8/uteruscare)
+- [codex](https://github.com/srivanik8/codex)
   
 
 ======================================================
