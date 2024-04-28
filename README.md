@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning **Data science, MERN stack, DSA, UI/UX ,Cyber Security**
 
-- 🤝 I’m looking to collaborate on **projects in the field of Datascience, Artificial Intelligence, Machine Learning, WEb Development, Cyber Security**
+- 🤝 I’m looking to collaborate on **projects in the field of Datascience, Artificial Intelligence, Machine Learning, WEB Dev, Cyber Security**
 
 - 💬 Ask me about **Python, Java, C/C++, R, Data Science,Cyber Security,Canva, Figma, Frontend .**
 
