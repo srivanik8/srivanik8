@@ -1,36 +1,34 @@
-# Srivani-Konda
-<h1 align="center">Hi 👋, I'm Srivani </h1>
-<h3 align="center">An enthusiast in Design + Dev + ML</h3>
-======================================================
+<h1 align="center">Hi 👋🏽, I'm Srivani </h1>
+<h3 align="center">An engineering student and self-taught dev from Hyderabad, India. I'm into web dev, design and ML. In love with blogging, JS and hackathons.</h3>
 
--  📜 I’m currently pursing B.Tech in **Sreenidhi Institute Of Science And Technology**
+<br>
 
-- 🔭 I’m currently learning **Data science, MERN stack, DSA, UI/UX Designing**
+- 🔭 I’m currently into **Data Analysis, MERN stack, DSA**
 
-- 🤝 I’m looking to collaborate on **projects in the field of Datascience, Artificial Intelligence, Machine Learning, WEB Dev**
-
-- 💬 Ask me about **Design+Dev+ML**
+- 💬 **Let's chat about all the cool tech stuff!**
 
 - 📫 How to reach me **Imsrivanikonda@gmail.com**
 
-- 😜 Fun Fact **I can drink 10 cups of ☕ per day**
-======================================================
+- 😜 Fun Fact - **can drink 10 cups of ☕ per day**
+  
+<hr>
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![mongoDB](https://img.shields.io/badge/mongoDB-6DA55F?style=for-the-badge&logo=mongoDB&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br> 
 
-======================================================
+<hr>
 
 ## 📊Stats
 <div display="flex" flex-direction="row">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srivanik8&show_icons=true&theme=transparent" alt="Srivanik8" /></p>
+[![srivanik8's GitHub | Languages Over Time](https://stats.quine.sh/srivanik8/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srivanik8)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivanik8&show_icons=true&locale=en&layout=compact" alt="Srivanik8" /></p>
 
 </div>
-<h3 align="center">📲Connect with me:</h3>
+<hr>
+<h3 align="center">connect with me on</h3>
 
 <p align="center">
 <a href="https://x.com/sri_2013_" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" alt="Prem_Kiran_" height="30" width="40" /></a>
