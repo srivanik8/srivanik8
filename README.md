@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Srivani </h1>
-<h3 align="center">An engineering student and self-taught dev from Hyderabad, India. I'm into web dev, design and ML. In love with blogging, JS and hackathons.</h3>
+<h3 align="center">An engineering student and self-taught dev from Hyderabad, India. I'm into web dev, design and ML. In love with blogging, react and hackathons.</h3>
 
 <br>
 
