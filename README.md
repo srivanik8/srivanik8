@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently into **Data Analysis, MERN stack, DSA**
+- 🔭 I’m currently into **Data Analysis & working on DSA**
 
 - 💬 **Let's chat about all the cool tech stuff!**
 
