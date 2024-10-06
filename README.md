@@ -29,9 +29,8 @@
 
 <p align="center">
 <div align="center">
-<a href="https://x.com/sri_2013_" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" alt="Prem_Kiran_" height="30" width="40" /></a>
-<a href="linkedin.com/in/srivani-konda-8107b4223" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="prem laknaboina" height="30" width="40" /></a>
-<a href="https://discord.gg/introvertwinner#3562" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="ashura#5112" height="30" width="40" /></a>
+<a href="https://x.com/sri_2013_" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" alt="srivani" height="30" width="40" /></a>
+<a href="linkedin.com/in/srivani-konda-8107b4223" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="srivani" height="30" width="40" /></a>
 </div>
 
 
