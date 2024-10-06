@@ -19,13 +19,10 @@
 
 <hr>
 
-## 📊Stats
-<div display="flex" flex-direction="col">
+# 📊Stats
+<div display="flex" flex-direction="row">
   
 [![srivanik8's GitHub | Dependencies](https://stats.quine.sh/srivanik8/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srivanik8)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivanik8&show_icons=true&locale=en&layout=compact" alt="Srivanik8" />
-
 </div>
 <hr>
 <h3 align="center">connect with me on</h3>
