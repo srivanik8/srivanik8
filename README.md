@@ -19,7 +19,7 @@
 
 <hr>
 
-# 📊Stats
+# 📊 Stats
 <div display="flex" flex-direction="row">
   
 [![srivanik8's GitHub | Dependencies](https://stats.quine.sh/srivanik8/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srivanik8)
