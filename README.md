@@ -1,36 +1,66 @@
-<h1 align="center">Hi 👋🏽, I'm Srivani </h1>
-<h3 align="center">An engineering student and self-taught dev from Hyderabad, India. I'm into web dev, design and ML. In love with blogging, react and hackathons.</h3>
+<h1 align='center'>Hola, I'm Srivani 👋</h1>
 
-<br>
+<h3 align='center'>Data Analyst & AI/ML | MSc Data and Computational Science @ University College Dublin</h3>
 
-- 🔭 I’m currently into **Data Analysis & working on DSA**
+I build LLM-integrated applications and ML systems that go from prototype to production — RAG pipelines, NLP models, and reinforcement learning agents. Currently completing my MSc at UCD, Dublin, after a CS degree (AI & ML specialization) in India.
 
-- 💬 **Let's chat about all the cool tech stuff!**
+- 🎓 MSc Data and Computational Science, University College Dublin (2025 – Present)
+- 🧠 Background in PyTorch, RAG pipeline design, LangChain, Hugging Face Transformers (BERT, RoBERTa), and reinforcement learning (PPO, DQN, A2C)
+- 🚀 Shipped two deployed GenAI applications: a clinical diagnostic platform (Gemini API, 87% accuracy) and a multimodal adaptive learning platform (Gemini + Whisper)
+- 📄 Published research on algorithmic trading using reinforcement learning (PPO, DQN, A2C) with NLP-based sentiment signals
+- 🏆 1st Place Overall, NodeBrew 2024 Hackathon (+ Best Accessibility & Inclusivity Award); 3rd Place, MLH TechTogether 2023; Best Use of MongoDB Atlas, MLH Waffle Hacks 2023
+- 🔭 Currently exploring MLOps, vector databases, and LLM fine-tuning
+- 💬 Open to AI/ML, GenAI/LLM, and Data Science roles in Ireland
+- 📫 Reach me at imkondasrivani@gmail.com | [LinkedIn](https://www.linkedin.com/in/srivani-konda)
 
-- 📫 How to reach me **Imsrivanikonda@gmail.com**
+---
 
-- 😜 Fun Fact - **can drink 10 cups of ☕ per day**
-  
-<hr>
+### 🛠️ Tech Stack
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![mongoDB](https://img.shields.io/badge/mongoDB-6DA55F?style=for-the-badge&logo=mongoDB&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br> 
+**ML / AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-<hr>
+**LLMs & GenAI**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-# 📊 Stats
-<div display="flex" flex-direction="row">
-  
-[![srivanik8's GitHub | Dependencies](https://stats.quine.sh/srivanik8/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srivanik8)
-</div>
-<hr>
-<h3 align="center">connect with me on</h3>
+**Data & Backend**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<p align="center">
-<div align="center">
-<a href="https://x.com/sri_2013_" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" alt="srivani" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/srivani-konda-8107b4223" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="srivani" height="30" width="40" /></a>
-</div>
+**Visualisation & Frontend**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+---
 
+### 📌 Featured Projects
+
+**[EMR Analysis & Disease Prediction](https://github.com/srivanik8)** — End-to-end clinical diagnostic system combining Scikit-learn for structured symptom data with Gemini API for RAG-style reasoning over unstructured EMR/lab reports. 87% classification accuracy. Deployed live on Streamlit.
+
+**[FunLearn — AI-Powered Adaptive Learning Platform](https://github.com/srivanik8/FunLearn)** — Multimodal GenAI app using Gemini for adaptive quiz generation and Whisper TTS to convert content into on-demand podcasts. Built solo, concept to deployment.
+
+**[Algorithmic Trading using Reinforcement Learning](https://ijsrem.com/download/algorithmic-trading-using-machine-learning)** *(Published)* — RL agents (PPO, DQN, A2C) trained with PyTorch and Gymnasium, achieving 92% strategy accuracy in simulated markets, combined with a Hugging Face Transformers + NLTK sentiment pipeline over financial news. Findings published in a peer-reviewed journal.
+
+---
+
+### 📊 GitHub Stats
+
+![Srivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivanik8&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivanik8&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+📍 Based in Dublin, Ireland · 🔗 [LinkedIn](https://www.linkedin.com/in/srivani-konda)
