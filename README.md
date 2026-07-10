@@ -58,8 +58,7 @@ I build LLM-integrated applications and ML systems that go from prototype to pro
 
 ### 📊 GitHub Stats
 
-![Srivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivanik8&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivanik8&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=srivanik8&theme=dark)](https://git.io/streak-stats)
 
 ---
 
